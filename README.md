@@ -5,7 +5,7 @@
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## [The website Doodstream.png has been converted to a png format.](https://github.com/Cubarhande/TECH-COLLECTION/blob/main/TECH-COLLECTION.png)
+## [The website TECH-COLLECTION.png has been converted to a png format.](https://github.com/Cubarhande/TECH-COLLECTION/blob/main/TECH-COLLECTION.png)
 
 
 
